@@ -28,7 +28,8 @@
   "homepage": "https://github.com/werein/react-native-dates#readme",
   "dependencies": {
     "moment": "^2.24.0",
-    "moment-range": "4.0.2"
+    "moment-range": "4.0.2",
+    "react-native-localize": "^2.0.1"
   },
   "peerDependencies": {
     "react": "^16.8.6",
